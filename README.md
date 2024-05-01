@@ -1,8 +1,8 @@
  <h1 align="center">Hi 👋, I'm Kishan</h1>
 
-- 🔭 CS Undergrad
+- 🔭 CS Undergrad at National Institute of Engineering, Mysore,India
 - 💬 Ask me anything about Web Dev
-- 📫 How to reach me: kishanvats2003@gmail.com
+- 📫 Reach me at: kishanvats2003@gmail.com
   
 ### Connect with me:
 <div id="badges">
