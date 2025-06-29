@@ -19,8 +19,8 @@
 ### Languages, Tools and Databases:
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,nest,react,next,express,nodejs,postgresql,mongodb,mysql,aws,azure,vercel,prisma,tailwind,bootstrap,html,css,docker,python,c,figma&perline=6)](https://skillicons.dev)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vatskishan03&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vatskishan03&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vatskishan03&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vatskishan03)](https://github.com/vatskishan03/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=vatskishan03&style=flat)
