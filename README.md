@@ -1,8 +1,8 @@
- <h1 align="center">Hi 👋, I'm Kishan</h1>
+<h1 align="center">Hi 👋, I'm Kishan</h1>
 
 - 🔭 CS Undergrad at National Institute of Engineering, Mysore,India
 - 💬 Ask me anything about Web Dev
-- Portfolio: heykishan.com
+- Portfolio: [heykishan.com](https://heykishan.com)
 - 📫 Reach me at: kishanvats2003@gmail.com
   
 ### Connect with me:
