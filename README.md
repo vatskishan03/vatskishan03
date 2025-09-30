@@ -7,8 +7,8 @@
 <!-- Identity + quick contact -->
   <p>CS Undergrad @ <b>National Institute of Engineering</b>, Mysore, India 🇮🇳       </p>
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-heykishan.com-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://heykishan.com)
-  [![Email](https://img.shields.io/badge/Email-kishanvats2003@gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishanvats2003@gmail.com)
+
+  [![Email](https://img.shields.io/badge/Email-kishan@kyrodb.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishan@kyrodb.com)
   [![X (Twitter)](https://img.shields.io/badge/X-%40kishanvats03-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kishanvats03)
 </div>
 
