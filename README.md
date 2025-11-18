@@ -23,7 +23,7 @@ fn main() {
         role: "Full Stack Developer",
         languages_spoken: vec!["English", "Hindi"],
         current_focus: "Building AI-native apps with Rust and TypeScript",
-        interests: vec!["Web Development", "System Design", "Machine Learning"],
+        interests: vec!["Distributed Systems", "System Design", "Machine Learning"],
     };
     
     println!("Nice to meet you! Let's chat!");
