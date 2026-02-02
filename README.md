@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&weight=700&size=20&duration=2500&pause=600&color=3B82F6&center=true&vCenter=true&width=720&lines=Hello%2C+I'm+Kishan+%F0%9F%91%8B;Full+Stack+Developer;Shipping+AI‑native+infrastructure+in+Rust;Crafting+realtime+experiences+with+TypeScript;" alt="Typing Tagline" />
 </p>
 
-<!-- Identity + quick contact -->
-  <p>CS Undergrad @ <b>National Institute of Engineering</b>, Mysore, India 🇮🇳       </p>
-  
-
   [![Email](https://img.shields.io/badge/Email-kishan@kyrodb.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishan@kyrodb.com)
   [![X (Twitter)](https://img.shields.io/badge/X-%40kishanvats03-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kishanvats03)
 </div>
